@@ -4,7 +4,7 @@
   "description": "Check mail addresses before any send.",
   "version": "0.1.0",
   "repository": {
-    "url": "https://github.com/pooriaarab/agentic-verify",
+    "url": "https://github.com/itsryanarmani/agentic-verify",
     "source": "github",
     "id": 1413726327
   },

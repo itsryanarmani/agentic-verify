@@ -64,7 +64,7 @@ Costs live in the current process. A separate `costs` invocation cannot read a p
 
 ## Links and status
 
-[Package](https://www.npmjs.com/package/agentic-verify) · [Source and support](https://github.com/pooriaarab/agentic-verify)
+[Package](https://www.npmjs.com/package/agentic-verify) · [Source and support](https://github.com/itsryanarmani/agentic-verify)
 
 Version 0.1.0 APIs can change. Public case studies are not yet published.
 Run `npm run build`, `npm run typecheck`, and `npm test` before contributing.

@@ -10,6 +10,6 @@ Keywords: email-verification, deliverability, agentic-suite, claude-code, codex,
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-verify
-- Core contract: https://github.com/pooriaarab/agentic-verify/blob/main/docs/agentic-core.md
+- README: https://github.com/itsryanarmani/agentic-verify
+- Core contract: https://github.com/itsryanarmani/agentic-verify/blob/main/docs/agentic-core.md
 - License: MIT
